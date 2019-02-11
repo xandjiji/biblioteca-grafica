@@ -2,7 +2,9 @@
 
 A basic graphic library using X Window System.
 
-![example](https://i.imgur.com/fn6Hdv3.png)
+<p align="center">
+  <img src="https://i.imgur.com/fn6Hdv3.png">
+</p>
 
 ### Usage
 
